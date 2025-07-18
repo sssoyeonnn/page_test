@@ -1,3 +1,1 @@
-# page_test
-
-안녕하세요 집 가고 싶은 사람입니다. 배움은 즐겁지만 동시에 고통스럽습니다. 안녕~
+[기사요약 1](https://sssoyeonnn.github.io/page_test/naver_news_030_0003332883_summary_)
